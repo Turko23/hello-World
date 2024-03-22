@@ -1,2 +1,3 @@
 # hello-World
-My first Repository
+My first Repository,
+I like to learn.
